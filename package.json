@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "dev": "ts-node-dev src/server.ts",
     "typeorn": "ts-node-dev node_modules/typeorm/cli.js"
